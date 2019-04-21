@@ -1,0 +1,34 @@
+header .btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 10px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  .footer
+  {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  
